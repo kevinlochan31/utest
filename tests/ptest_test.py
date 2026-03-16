@@ -4,7 +4,7 @@
 import unittest
 
 def sum(a,b):
-    return a+b
+    return a-b
 
 class Test():
     pass
