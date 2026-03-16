@@ -43,7 +43,7 @@ class SumTest(unittest.TestCase):
 
         result = sum(self.b,self.a)
         # Assert
-        self.assertEqual(result, self.b+self.a)
+        self.assertEqual(result, 999)
 
     def test_assert(self):
         t1 = Test()
