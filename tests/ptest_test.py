@@ -11,7 +11,7 @@ class Test():
 class Test1():
     pass
 
-class SumTest(unittest.TestCas):
+class SumTest(unittest.TestCase):
 
     def setUp(self):
         
